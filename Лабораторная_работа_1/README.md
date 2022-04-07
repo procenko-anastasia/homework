@@ -92,19 +92,19 @@ export PS1="\u@\w:"
 ```
 На скриншоте видно, как поменялась строка приглашение в терминале
 
-![img](img/p1.jpg)
+![img](img/p1.png)
 ---
 
 * На скриншоте вывела текущую дату и время
-![img](img/p2.jpg)
+![img](img/p2.png)
 
 Есть 2 юзера ***parallels*** и ***levchel***
 
-![img](img/p3.jpg)
+![img](img/p3.png)
  
  Одновременно подключиться не дает возможности, как только меняются юзеры:
 
- ![img](img/p4.jpg)
+ ![img](img/p4.png)
 
 * Выполнила команды:
 
@@ -118,7 +118,7 @@ systemctl reload postfix
 ```
 * Отправляем сообщение
 
- ![img](p5.jpg)
+ ![img](img/p5.png)
 
 * Видим его
- ![img](img/p6.jpg)
+ ![img](img/p6.png)
